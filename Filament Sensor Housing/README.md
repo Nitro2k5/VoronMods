@@ -6,7 +6,7 @@ NOTHING TO SEE HERE<br>
 # Filament Sensor Housing
 Sensor Housing for Generic CHN Filamentsensor<br>
 <br>
-![FS_Case_Drawing](https://github.com/Nitro2k5/VoronMods/blob/main/Filament%20Sensor%20Housing/IMG/FS_Case_Drawing.png)<br>
+![FS_Case_Drawing](https://github.com/Nitro2k5/VoronMods/blob/main/Filament%20Sensor%20Housing/Images/FS_Case_Drawing.png)<br>
 <br>
 
 
