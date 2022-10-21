@@ -1,12 +1,34 @@
 # Under Construction
-**UNDER CONSTRUCTION - NOTHING TO SEE HERE**
+*****UNDER CONSTRUCTION - NOTHING TO SEE HERE*****
+<br><br>
+ToDo:
+- add missing images
+- add correct screw length
 <br><br><br>
 
 # Filament Runout Sensor Housing
 Sensor Housing for Generic CHN Filament Runout Sensor
 <br><br>
 ![FS_Case_Drawing](Images/FS_Case_Drawing.png)
+<br><br><br>
+
+[ASSEMBLED IMG]
 <br><br>
+
+[SENSORDETAIL IMG]
+<br><br>
+
+[SENSORMEASUREMENT IMG]
+<br><br>
+
+# Cover Options
+<br>
+
+|filamentsensor_cover.stl|filamentsensor_cover_logo-rotated.stl|filamentsensor_cover_nologo.stl|
+|---|---|---|
+| ![Cover_01](Images/Cover_01.PNG) | ![Cover_02](Images/Cover_02.PNG) | ![Cover_03](Images/Cover_03.PNG) |
+
+<br>
 
 # BOM
 <br>
@@ -19,6 +41,7 @@ Sensor Housing for Generic CHN Filament Runout Sensor
 |M3x **??** SHSC (or BHSC)|2|screws for *filamentsensor_base.stl* -> T-Nut|
 |M10 4mm OD tube connector|2|tube connector -> *filamentsensor_base.stl*|
 |M3 T-Nut|2|extrusion insert|
+
 <br>
 
 # Config
