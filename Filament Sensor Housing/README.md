@@ -13,11 +13,11 @@ Sensor Housing for Generic CHN Filament Runout Sensor
 
 |Size|Qty|Description|
 |---|---|---|
-|M3 heat set inserts|6|heat set inserts -> *filamentsensor_body.stl*|
+|M3 heat set inserts|6|heat set inserts -> *filamentsensor_base.stl*|
 |M3x **??** BHSC|4|screws -> *filamentsensor_cover.stl*|
-|M3x **??** SHCS (or BHSC)|2|screws for filamentsensor -> *filamentsensor_body.stl*|
-|M3x **??** SHSC (or BHSC)|2|screws for *filamentsensor_body.stl* -> T-Nut|
-|M10 4mm OD tube connector|2|tube connector -> *filamentsensor_body.stl*|
+|M3x **??** SHCS (or BHSC)|2|screws for filamentsensor -> *filamentsensor_base.stl*|
+|M3x **??** SHSC (or BHSC)|2|screws for *filamentsensor_base.stl* -> T-Nut|
+|M10 4mm OD tube connector|2|tube connector -> *filamentsensor_base.stl*|
 |M3 T-Nut|2|extrusion insert|
 <br>
 
