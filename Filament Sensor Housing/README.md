@@ -22,8 +22,6 @@ Sensor Housing for Generic CHN Filament Runout Sensor
 <br><br>
 
 # Cover Options
-<br>
-
 |filamentsensor_cover.stl|filamentsensor_cover_logo-rotated.stl|filamentsensor_cover_nologo.stl|
 |---|---|---|
 | ![Cover_01](Images/Cover_01.PNG) | ![Cover_02](Images/Cover_02.PNG) | ![Cover_03](Images/Cover_03.PNG) |
@@ -31,16 +29,14 @@ Sensor Housing for Generic CHN Filament Runout Sensor
 <br>
 
 # BOM
-<br>
-
-|Size|Qty|Description|
-|---|---|---|
-|M3 heat set inserts|6|heat set inserts -> *filamentsensor_base.stl*|
-|M3x **??** BHSC|4|screws -> *filamentsensor_cover.stl*|
-|M3x **??** SHCS (or BHSC)|2|screws for filamentsensor -> *filamentsensor_base.stl*|
-|M3x **??** SHSC (or BHSC)|2|screws for *filamentsensor_base.stl* -> T-Nut|
-|M10 4mm OD tube connector|2|tube connector -> *filamentsensor_base.stl*|
-|M3 T-Nut|2|extrusion insert|
+|Size|Qty|
+|---|:---:|
+|M3 heat set inserts|6|
+|M3x **??** BHSC|4|
+|M3x **??** SHCS (or BHSC)|2|
+|M3x **??** SHSC (or BHSC)|2|
+|M10 4mm OD tube connector|2|
+|M3 T-Nut|2|
 
 <br>
 
@@ -56,6 +52,12 @@ switch_pin: <your pin>
 #runout_gcode:
 #insert_gcode:
 ```
+# Compatibility
+
+|V0|V1.8|V2.4|VSW|Trident|
+|:---:|:---:|:---:|:---:|:---:|
+| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+
 <br>
 
 # Changelog
