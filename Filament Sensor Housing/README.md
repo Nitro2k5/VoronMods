@@ -1,14 +1,12 @@
 # Under Construction
-UNDER CONSTRUCTION - NOTHING TO SEE HERE<br>
-<br>
-
+**UNDER CONSTRUCTION - NOTHING TO SEE HERE**
+<br><br><br>
 
 # Filament Runout Sensor Housing
-Sensor Housing for Generic CHN Filament Runout Sensor<br>
-<br>
-![FS_Case_Drawing](Images/FS_Case_Drawing.png)<br>
-<br>
-
+Sensor Housing for Generic CHN Filament Runout Sensor
+<br><br>
+![FS_Case_Drawing](Images/FS_Case_Drawing.png)
+<br><br>
 
 # BOM
 <br>
@@ -21,11 +19,11 @@ Sensor Housing for Generic CHN Filament Runout Sensor<br>
 |M3x **??** SHSC (or BHSC)|2|screws for *filamentsensor_body.stl* -> T-Nut|
 |M10 4mm OD tube connector|2|tube connector -> *filamentsensor_body.stl*|
 |M3 T-Nut|2|extrusion insert|
-
 <br>
 
 # Config
-Add the following code to your **printer.cfg**<br>
+Add the following code to your **printer.cfg**
+<br>
 ```
 [filament_switch_sensor filament_runout]
 pause_on_runout: True
@@ -38,5 +36,5 @@ switch_pin: <your pin>
 <br>
 
 # Changelog
-v1.0 (21.10.2022) - Release<br>
+v1.0 (21.10.2022) - Release
 <br>
