@@ -1,4 +1,5 @@
-# Closed Exhaust Cover
+# Voron Exhaust Cover
+
 Alternative closed cover for the back panel with Voron logo and hole for M10 4mm OD tube connector
 
 Modified version of
