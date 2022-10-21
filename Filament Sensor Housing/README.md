@@ -1,4 +1,8 @@
 # Filament Sensor Housing
-Sensor Housing for Generic CH Filamentsensor
+Sensor Housing for Generic CHN Filamentsensor
 
-![FS_Case_Drawing](https://user-images.githubusercontent.com/116306986/197158028-bace2a13-b133-4e4c-9219-041b6544229e.png)
+![FS_Case_Drawing](https://github.com/Nitro2k5/VoronMods/blob/main/Filament%20Sensor%20Housing/IMG/FS_Case_Drawing.png)
+
+# BOM
+6x M3 heat set inserts
+2x M3 
