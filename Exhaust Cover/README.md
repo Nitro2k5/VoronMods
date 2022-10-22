@@ -1,26 +1,22 @@
-# Under Construction
-*****UNDER CONSTRUCTION - NOTHING TO SEE HERE*****
-<br><br>
-ToDo:
-- add missing images
-- upload STLs
-<br><br><br>
-
-# Closed Exhaust Cover
-Alternative closed grill-cover for the backpanel with hole for M10 4mm OD tube connector
+# Exhaust Grill Cover
+Alternative closed grill cover for the backpanel with hole for M10 4mm OD tube connector
 <br><br>
 
-[CAD-IMG]
+![Cover_01](Images/Cover_01.PNG)
 <br><br>
 
-[ASSEMBLED-IMG]
+![Cover_Assembled](Images/Cover_Assembled.jpg)
 <br><br>
 
 # Exhaust Cover Options
 
 |exhaust_filter_grill_closed.stl|exhaust_filter_grill_closed_nologo.stl|
 |:---:|:---:|
-| [IMG01] | [IMG02] |
+| ![Cover_01](Images/Cover_01.PNG) | ![Cover_02](Images/Cover_02.PNG) |
+
+|exhaust_filter_grill_closed_flat.stl|exhaust_filter_grill_closed_flat_nologo.stl|
+|:---:|:---:|
+| ![Cover_03](Images/Cover_03.PNG) | ![Cover_04](Images/Cover_04.PNG) |
 
 <br>
 
