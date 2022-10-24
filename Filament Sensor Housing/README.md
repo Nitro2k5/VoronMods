@@ -2,7 +2,7 @@
 
 |Work in progress|ToDo|
 |:---:|:---|
-|![Work_in_Progress](Images/work_in_progress.jpg)|- Update STLs to smaller v1.1 version<br>- Update CAD Images to smaller v1.1 version<br>- Update BOM to smaller v1.1 version<br>- Update changelog<br>- Delete this section and image :)|
+|![Work_in_Progress](Images/work_in_progress.jpg)|- Update STLs to smaller v1.1 version<br>- Update CAD Images to smaller v1.1 version<br>- Update BOM to smaller v1.1 version<br>- Update changelog<br>- Delete this note :)|
 
 <br>
 
