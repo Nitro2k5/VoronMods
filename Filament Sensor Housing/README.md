@@ -1,8 +1,8 @@
-# Under Construction
+# Project Under Construction
 
 |Work in progress|ToDo|
 |:---:|:---|
-|![Work_in_Progress](Images/work_in_progress.jpg)|- Update STLs to smaller v1.1 version<br>- Update CAD Images to smaller v1.1 version<br>- Update BOM to smaller v1.1 version<br>- Update changelog<br>- Delete this note :)|
+|![Work_in_Progress](Images/work_in_progress.jpg)|- Update STLs to smaller v1.1 version<br>- Update CAD Images to smaller v1.1 version<br>- Update changelog<br>- Delete this note :)|
 
 <br>
 
@@ -23,21 +23,22 @@ _**(image depreciated)**_
 |---|---|---|
 | ![Cover_01](Images/Cover_01.PNG) | ![Cover_02](Images/Cover_02.PNG) | ![Cover_03](Images/Cover_03.PNG) |
 
-_**(section depreciated)**_
-<br>
+
 
 # BOM
 |Size|Qty|
 |---|:---:|
-|M3 heat set inserts|6|
-|M3x **??** BHSC|4|
-|M3x **??** SHCS (or BHSC)|2|
-|M3x **??** SHSC (or BHSC)|2|
+|M3 heat set inserts|5|
+|M3x20 BHSC|3|
+|M3x16 BHSC|2|
+|M3x8 BHSC|2|
 |M10 4mm OD tube connector|2|
 |M3 T-Nut|2|
 
-_**(section depreciated)**_
+_Note:
 <br>
+BHSC is required_
+<br><br>
 
 # Config
 Add the following code to your **printer.cfg**
@@ -51,6 +52,12 @@ switch_pin: <your pin>
 #runout_gcode:
 #insert_gcode:
 ```
+_Note:
+<br>
+`runout_gcode:` triggers only on print active
+<br>
+`insert_gcode:` triggers only on idle_
+<br><br>
 
 # Compatibility
 
