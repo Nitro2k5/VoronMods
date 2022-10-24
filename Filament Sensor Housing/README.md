@@ -1,24 +1,21 @@
 # Under Construction
-*****UNDER CONSTRUCTION - NOTHING TO SEE HERE*****
-<br><br>
-ToDo:
-- add missing images
-- add correct screw length
-<br><br><br>
+
+|Work in progress|ToDo|
+|:---:|:---|
+|![Work_in_Progress](Images/work_in_progress.jpg)|- Update STLs to smaller v1.1 version<br>- Update CAD Images to smaller v1.1 version<br>- Update BOM to smaller v1.1 version<br>- Update changelog<br>- Delete this section and image :)|
+
+<br>
 
 # Filament Runout Sensor Housing
 Sensor Housing for Generic CHN Filament Runout Sensor
 <br><br>
 ![FS_Case_Drawing](Images/FS_Case_Drawing.png)
-<br><br><br>
-
-[ASSEMBLED IMG]
+<br>
+_**(image depreciated)**_
 <br><br>
-
-[SENSORDETAIL IMG]
-<br><br>
-
-[SENSORMEASUREMENT IMG]
+![Assembled_01](Images/Assembled_01.PNG)
+<br>
+![Sensor_Detail_01](Images/Sensor_Detail_01.jpg)
 <br><br>
 
 # Cover Options
@@ -26,6 +23,7 @@ Sensor Housing for Generic CHN Filament Runout Sensor
 |---|---|---|
 | ![Cover_01](Images/Cover_01.PNG) | ![Cover_02](Images/Cover_02.PNG) | ![Cover_03](Images/Cover_03.PNG) |
 
+_**(section depreciated)**_
 <br>
 
 # BOM
@@ -38,6 +36,7 @@ Sensor Housing for Generic CHN Filament Runout Sensor
 |M10 4mm OD tube connector|2|
 |M3 T-Nut|2|
 
+_**(section depreciated)**_
 <br>
 
 # Config
@@ -52,6 +51,7 @@ switch_pin: <your pin>
 #runout_gcode:
 #insert_gcode:
 ```
+
 # Compatibility
 
 |V0|V1.8|V2.4|VSW|Trident|
