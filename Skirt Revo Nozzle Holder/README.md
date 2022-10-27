@@ -3,7 +3,7 @@
 Modification from this mod:<br>
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Daten/Voron_2.4_Revo_Nozzle_Holder
 
-Referring to this fantastic modification, i was thinking, why shouldn't there be a version for the left side? So I simply modified it myself.
+Referring to this fantastic mod, i was thinking, why shouldn't there be a version for the left side? So I simply mod it myself.
 
 Available for the sizes 250, 300 and 350 mm.
 
