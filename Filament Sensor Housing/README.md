@@ -32,7 +32,7 @@ _**(image depreciated)**_
 |M3x20 BHCS|3|
 |M3x16 BHCS|2|
 |M3x8 BHCS|2|
-|M10 4mm OD tube connector|2|
+|M10 4mm OD push-fit-conector|2|
 |M3 T-Nut|2|
 
 _Note:
