@@ -37,7 +37,7 @@ _**(image depreciated)**_
 
 _Note:
 <br>
-BHSC is required_
+BHCS is required_
 <br><br>
 
 # Config
