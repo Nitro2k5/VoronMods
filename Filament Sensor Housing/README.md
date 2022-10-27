@@ -23,7 +23,7 @@ _**(image depreciated)**_
 |---|---|---|
 | ![Cover_01](Images/Cover_01.PNG) | ![Cover_02](Images/Cover_02.PNG) | ![Cover_03](Images/Cover_03.PNG) |
 
-
+<br>
 
 # BOM
 |Size|Qty|
