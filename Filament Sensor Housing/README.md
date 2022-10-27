@@ -29,9 +29,9 @@ _**(image depreciated)**_
 |Size|Qty|
 |---|:---:|
 |M3 heat set inserts|5|
-|M3x20 BHSC|3|
-|M3x16 BHSC|2|
-|M3x8 BHSC|2|
+|M3x20 BHCS|3|
+|M3x16 BHCS|2|
+|M3x8 BHCS|2|
 |M10 4mm OD tube connector|2|
 |M3 T-Nut|2|
 
