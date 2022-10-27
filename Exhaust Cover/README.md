@@ -23,7 +23,7 @@ Alternative closed grill cover for the backpanel with hole for M10 4mm OD tube c
 # BOM
 |Size|Qty|
 |---|:---:|
-|M10 4mm OD tube connector|1|
+|M10 4mm OD push-fit-conector|1|
 
 <br>
 
