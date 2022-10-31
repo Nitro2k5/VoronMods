@@ -1,27 +1,24 @@
-# Project Under Construction
-
-|Work in progress|ToDo|
-|:---:|:---|
-|![Work_in_Progress](Images/work_in_progress.jpg)|- Update STLs to smaller v1.1 version<br>- Update CAD Images to smaller v1.1 version<br>- Update changelog<br>- Delete this note :)|
-
-<br>
-
 # Filament Runout Sensor Housing
 Sensor Housing for Generic CHN Filament Runout Sensor
 <br><br>
-![FS_Case_Drawing](Images/FS_Case_Drawing.png)
-<br>
-_**(image depreciated)**_
+![FS_Case_Drawing](Images/filament_sensor_housing.PNG)
 <br><br>
 ![Assembled_01](Images/Assembled_01.PNG)
 <br>
 ![Sensor_Detail_01](Images/Sensor_Detail_01.jpg)
 <br><br>
 
+# Base Options
+|filament_sensor_base.stl|filament_sensor_base_cableguide.stl|
+|---|---|
+| ![Base_01](Images/filament_sensor_base.PNG) | ![Base_02](Images/filament_sensor_base_cableguide.PNG) |
+
+<br>
+
 # Cover Options
-|filamentsensor_cover.stl|filamentsensor_cover_logo-rotated.stl|filamentsensor_cover_nologo.stl|
+|filament_sensor_cover.stl|filament_sensor_cover_rotated.stl|filament_sensor_cover_nologo.stl|
 |---|---|---|
-| ![Cover_01](Images/Cover_01.PNG) | ![Cover_02](Images/Cover_02.PNG) | ![Cover_03](Images/Cover_03.PNG) |
+| ![Cover_01](Images/filament_sensor_cover.PNG) | ![Cover_02](Images/filament_sensor_cover_rotated.PNG) | ![Cover_03](Images/filament_sensor_cover_nologo.PNG) |
 
 <br>
 
@@ -37,7 +34,7 @@ _**(image depreciated)**_
 
 _Note:
 <br>
-BHCS is required_
+BHCS is required due to the small design_
 <br><br>
 
 # Config
@@ -68,5 +65,7 @@ _Note:
 <br>
 
 # Changelog
+v1.1 (31.10.2022) - Smaller design and -1 heat set insert
+<br>
 v1.0 (21.10.2022) - Release
 <br>
