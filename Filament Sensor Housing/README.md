@@ -22,6 +22,15 @@ Sensor Housing for Generic CHN Filament Runout Sensor
 
 <br>
 
+# Panel Clip Adapter
+If you are using stock panel mounting, you may need a panel clip adapter
+<br>
+|panel_clip_adapter_X.Xmm.stl|
+|:---:|
+| ![Panel_Clip](Images/panel_clip_adapter.PNG) |
+
+<br>
+
 # BOM
 |Size|Qty|
 |---|:---:|
@@ -35,7 +44,16 @@ Sensor Housing for Generic CHN Filament Runout Sensor
 _Note:
 <br>
 BHCS is required due to the small design_
-<br><br>
+<br><br><br>
+
+**Additional fastener for Panel Clip Adapter:**
+
+|Size|Qty|
+|---|:---:|
+|M3 heat set inserts|2|
+|M3x8 SHCS|2|
+
+<br>
 
 # Config
 Add the following code to your **printer.cfg**
@@ -65,6 +83,8 @@ _Note:
 <br>
 
 # Changelog
+v1.2 (14.11.2022) - Adding Panel Clip Adapters, Adding Images, Update BOM
+<br>
 v1.1 (31.10.2022) - Smaller design and -1 heat set insert
 <br>
 v1.0 (21.10.2022) - Release
