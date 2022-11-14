@@ -46,7 +46,7 @@ _Note:
 BHCS is required due to the small design_
 <br><br><br>
 
-**Additional fastener for Panel Clip Adapter:**
+**Additional fasteners for Panel Clip Adapter:**
 
 |Size|Qty|
 |---|:---:|
@@ -83,7 +83,7 @@ _Note:
 <br>
 
 # Changelog
-v1.2 (14.11.2022) - Adding Panel Clip Adapters, Adding Images, Update BOM
+v1.2 (14.11.2022) - Adding Panel Clip Adapter, adding images, update BOM
 <br>
 v1.1 (31.10.2022) - Smaller design and -1 heat set insert
 <br>
