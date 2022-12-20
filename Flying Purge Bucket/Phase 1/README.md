@@ -23,6 +23,9 @@ Solltest du keinen Klicky-Mount haben, kannst du natürlich trotzdem mitmachen u
 <br>
 Die Klicky-Mount-SLTs findest du im STL-Ordner und entsprechen den originalen Klicky-Dateien.<br>
 <br>
+# Print Settings
+*Liste*<br>
+<br>
 # Montage
 Der Klicky-Gantry-Mount wird mittig zur linken Bed-Extrusion an deiner Gantry montiert.<br>
 <br>
@@ -81,7 +84,7 @@ Ja / Nein<br>
 **Verwendest du Voron Tap?**<br>
 *Ja / Nein*<br>
 <br>
-**Gibt es weitere Mods die mit FPB interagieren könnten?**<br>
+**Verwendest du weitere Mods die mit FPB interagieren könnten?** *z.B. Kinematic Bed Mount*<br>
 *Ja / Nein*<br>
 **Falls ja, welche?**<br>
 *Freitext*<br>
@@ -127,13 +130,13 @@ Ja / Nein<br>
 <br>
 **Y_Max laut Config?**<br>
 <br>
-**Kann Y Max problemlos angefahren werden (unabhängig des FPB)?**<br>
+**Kann Y Max problemlos wiederholgenau angefahren werden (unabhängig des FPB)?** *keine mechanischen Probleme, keine klemmende Cablechain, kein Halleffekt-Sensor der nicht wiederholgenau arbeitet, etc.*<br>
 <br>
-**Wie viel Abstand hast du in Y von Y_Max zur hintersten Kante des Druckbettes? (siehe Abb. 1)**<br>
+**Wie viel Abstand hast du in Y von Y_Max zur hintersten Kante des Druckbettes? (siehe Abb. 1)** *hier zählt die Mitte des Düsenaustritts*<br>
 <br>
-**Abstand Stirnseite Measuring-Adapter-Druckteil zur Kante Druckbett (siehe Abb. 2)**<br>
+**Abstand Stirnseite Measuring-Adapter-Druckteil zur Kante Druckbett (siehe Abb. 2)** *kann positiv oder negativ sein*<br>
 <br>
-**Druckbett-Oberfläche Höhe zur Bed-extrusion-Oberfläche (siehe Abb. 3)**<br>
+**Höhe Druckbett-Oberfläche zur Bed-extrusion-Oberfläche (siehe Abb. 3)**<br>
 <br>
 **Auf welchem Z Wert steht deine Nozzle wenn die Unterseite des Measuring-Adapter-Druckteil bündig zur Druckbett-Oberfläche fluchtet oder auf der Druckoberfläche aufliegt? (siehe Abb. 4)**<br>
 *oder*<br>
