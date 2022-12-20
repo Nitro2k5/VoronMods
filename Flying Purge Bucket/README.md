@@ -7,6 +7,7 @@ Dieser Beta-Test wurde durch Mitglieder des **#landofschnitzel-:de:** Channels d
 <br>
 https://discord.gg/voron<br>
 <br>
+<br>
 Sollte das Interesse der nicht-deutschsprachigen Community so groß sein, dass sich hier einige Mitmacher finden, werden alle Informationen und Texte ebenfalls auf Englisch bereitgestellt.<br>
 <br>
 ## Was ist der Flying Purge Bucket :question:
@@ -18,11 +19,11 @@ Das Mitfahren in Z ermöglicht ein mid-print-purge (z.B. nach M600 ColorChange),
 <br>
 Der **FPB** haucht den verwaisten Klicky-Mounts - die bedingt durch Voron Tap nun nicht mehr benötigt werden - neues Leben ein. :recycle:<br>
 <br>
-(IMAGE_Mount)<br>
+![FPB_Mount](Images/FPB_Mount.PNG)<br>
+<br><br>
+![FPB_Detail](Images/FPB_Detail.PNG)<br>
 <br>
-(IMAGE_Detail)<br>
-<br>
-(IMAGE_Overview)<br>
+![FPB_Overview](Images/FPB_Overview.PNG)<br>
 <br>
 ## Welche Voron-Printer werden unterstützt :question:
 Zu Beginn wird nur der **V2.4r2** unterstützt.<br>
@@ -53,8 +54,10 @@ Hier sind wir auf die Erkenntnisse der Tester angewiesen um die Druckdateien sp�
 <br>
 In **Phase 3** fließen abschließend iterativ alle Änderungen und Erkenntnisse der Tester ein...<br>
 <br>
-...bis wir der Meinung sind "Das passt jetzt!".<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...bis wir der Meinung sind "Das passt jetzt!".<br>
 <br>
 <br>
-**Deine Erkenntnisse sind wichtig für die weitere Entwicklung des Projektes! Vielen Dank hierfür!**<br>
+**Deine Erkenntnisse sind wichtig für die weitere Entwicklung des Projektes!**<br>
+<br>
+**Vielen Dank hierfür! :heart:**<br>
 <br>
