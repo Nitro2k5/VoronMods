@@ -3,6 +3,8 @@ Vielen Dank für dein Mitwirken beim **FPB**! :heart:<br>
 <br>
 Nachfolgend findest du die Informationen zu der jeweiligen Phase.<br>
 <br>
+Solltest du Fragen oder Anregungen haben, auf Probleme stoßen oder etwas überhaupt nicht funktionieren, dann melde dich über Discord (Direktnachrichten) an Nitro2k5#2432.<br>
+<br>
 
 # Gantry Mount
 Es gibt zwei Varianten des Fixed-Klicky-Mounts, die lange und die kurze.<br>
