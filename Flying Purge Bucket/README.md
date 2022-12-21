@@ -4,9 +4,7 @@
 Hey, vielen Dank für dein Interesse am Beta-Test des Flying Purge Buckets.<br>
 <br>
 Dieser Beta-Test wurde durch Mitglieder des **#landofschnitzel-:de:** Channels des Voron Discord initiiert.<br>
-<br>
 https://discord.gg/voron<br>
-<br>
 <br>
 Sollte das Interesse der nicht-deutschsprachigen Community so groß sein, dass sich hier einige Mitmacher finden, werden alle Informationen und Texte ebenfalls auf Englisch bereitgestellt.<br>
 <br>
@@ -28,7 +26,7 @@ Der **FPB** haucht den verwaisten Klicky-Mounts - die bedingt durch Voron Tap nu
 ## Welche Voron-Printer werden unterstützt :question:
 Zu Beginn wird nur der **V2.4r2** unterstützt.<br>
 <br>
-Der Trident hat bereits durch die fixed-Gantry die oben genannten Vorteile.<br>
+Im weiteren Verlauf werden ggf. weitere Modelle unterstützt - je nach Machbarkeit.<br>
 <br>
 ## Ich würde gerne mitmachen, wie gehts nun weiter :question:
 Der Beta-Test ist in verschiedene Phasen aufgeteilt und wird als Open-Beta-Test durchgeführt.<br>
